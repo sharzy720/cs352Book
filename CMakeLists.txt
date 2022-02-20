@@ -20,3 +20,10 @@ add_executable(c2ex3 "Chapter2/Ex3.c")
 add_executable(c2ex4 "Chapter2/Ex4.c")
 add_executable(c2ex5 "Chapter2/Ex5.c")
 add_executable(c2ex6 "Chapter2/Ex6.c")
+
+# Chapter3 Examples
+add_executable(c3ex1 "Chapter3/Ex1.c")
+add_executable(c3ex2 "Chapter3/Ex2.c")
+add_executable(c3ex3 "Chapter3/Ex3.c")
+add_executable(c3ex4 "Chapter3/Ex4.c")
+add_executable(c3ex5 "Chapter3/Ex5.c")
